@@ -248,3 +248,4 @@ You have completed the Git branching exercise! You have learned how to create br
 in different branches, and merge branches back into the main branch.
 
 Edited by Jessica Heusler.
+This change was made on my-new-branch.
